@@ -1,5 +1,16 @@
 # next-docs-ui
 
+## 7.1.0
+
+### Minor Changes
+
+- d2744a4: Remove tailwindcss-animate
+
+### Patch Changes
+
+- c527044: Support preloading Search Dialog
+  - next-docs-zeta@7.1.0
+
 ## 7.0.0
 
 ### Major Changes
